@@ -1,0 +1,6 @@
+{
+  "name": "loop-engineering",
+  "description": "Iterate-until-truly-done engineering loop: clarify with the user, implement, verify by actually running the change, adversarially code-review (correctness + coupling/cohesion), and re-prompt with the findings until both gates are clean.",
+  "version": "0.1.0",
+  "author": { "name": "Rishikesh Devare", "email": "rishikesh.devare@cometchat.com" }
+}

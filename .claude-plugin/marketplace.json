@@ -1,0 +1,12 @@
+{
+  "name": "rishikesh-plugins",
+  "owner": { "name": "Rishikesh Devare", "email": "rishikesh.devare@cometchat.com" },
+  "description": "Rishikesh's Claude Code plugins, starting with the loop-engineering workflow.",
+  "plugins": [
+    {
+      "name": "loop-engineering",
+      "source": "./",
+      "description": "Iterate-until-truly-done engineering loop: clarify → implement → self-verify → adversarial review → repeat until clean."
+    }
+  ]
+}
